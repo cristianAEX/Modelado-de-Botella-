@@ -73,4 +73,5 @@ python -m unittest discover -s tests -v
 
 ## Autores
 
-Nombres del equipo: _completar_
+Nombres del equipo: Aguilar Chavez Cristian Michael
+José Eduardo Martínez García 
